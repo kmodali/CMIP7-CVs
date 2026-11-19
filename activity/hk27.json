@@ -1,0 +1,12 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hk27",
+    "type": "activity",
+    "description": "Km-scale model hackathon 2027: experiments with km-scale Earth system models particpating in km scale hackathon 2027.",
+    "experiments": [
+        "d3hp003"
+    ],
+    "references": [
+        "hk27_d3hp003_ref_000"
+    ]
+}
